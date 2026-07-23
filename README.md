@@ -168,20 +168,6 @@ Fact Tables:
 5. **Business Acumen** — Translated finance, supply chain, and sales concepts into working DAX measures
 6. **Multi-Audience Design** — Built distinct pages for different functional audiences (Sales, Finance, Marketing, Supply Chain, Executive)
 
-### Practice Interview Questions
-
-**Q: "Walk me through the P&L waterfall logic. Why structure it this way?"**
-*A: The waterfall breaks down profit generation step-by-step so it's clear where margin is created (Gross Margin) and where it's consumed (Operations). This enables drill-down by customer/product/region to find where profitability leaks would occur in a real P&L.*
-
-**Q: "Explain the Forecast Accuracy measure. Why ABS Error?"**
-*A: Forecast Accuracy = 1 - ABS(Error%), which penalizes both overforecasting and underforecasting equally. If forecast is $100 but actual is $90, the error is 10% whether you overforecast or underforecast — both are problems for supply chain planning.*
-
-**Q: "How did you approach performance optimization with DAX Studio?"**
-*A: I reviewed query execution plans, removed redundant columns, checked data types on the fact tables, and reordered column cardinality to improve compression — a habit I'd apply to any model, scaled to whatever the actual dataset and refresh cadence demand in a real production setting.*
-
-**Q: "What would you do differently if building this for a real enterprise?"**
-*A: I'd implement row-level security (RLS) by region/market, add data quality monitoring for source systems, implement incremental refresh for large fact tables, and add version control for PBIX changes using Power BI Projects.*
-
 ---
 
 ## 📁 Repository Structure
