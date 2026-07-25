@@ -130,19 +130,17 @@ Fact Tables:
 
 ## 📸 Screenshots & Visual Guides
 
-> **How to add:** In Power BI Desktop → File → Export → Export to PNG per page. Save to `Screenshots/` folder with names below. GIFs of bookmark toggles and the period selector can also be dropped into the same folder.
-
 | Page | Filename | Key Visual |
 |------|---------|------------|
-| Home | `01_home.png` | *[screenshot / GIF placeholder — add here]* |
-| Finance View | `02_finance.png` | *[screenshot / GIF placeholder — add here]* |
-| Sales View | `03_sales.png` | *[screenshot / GIF placeholder — add here]* |
-| Marketing View | `04_marketing.png` | *[screenshot / GIF placeholder — add here]* |
-| Supply Chain View | `05_supply_chain.png` | *[screenshot / GIF placeholder — add here]* |
-| Executive View | `06_executive.png` | *[screenshot / GIF placeholder — add here]* |
-| Product Level View | `07_product_level.png` | *[screenshot / GIF placeholder — add here]* |
+| Home | `01_home.png` | <img width="1386" height="777" alt="01_home" src="https://github.com/user-attachments/assets/96978724-7a15-4c1e-b108-ce2dabf92df3" />|
+| Finance View | `02_finance.png` | <img width="1386" height="777" alt="02_finance" src="https://github.com/user-attachments/assets/6f4d38aa-a713-4014-8aa4-5d377f25a367" />|
+| Sales View | `03_sales.png` | <img width="1386" height="777" alt="03_sales" src="https://github.com/user-attachments/assets/f0dac6c7-b34b-49a8-9bff-c1184e6bc788" />|
+| Marketing View | `04_marketing.png` | <img width="1386" height="777" alt="04_marketing" src="https://github.com/user-attachments/assets/926842b1-a403-4dd7-a3a5-1a6bdb4d8771" />|
+| Supply Chain View | `05_supply_chain.png` | <img width="1386" height="777" alt="05_supply_chain" src="https://github.com/user-attachments/assets/88ef22fe-e43a-497e-bb64-d7496e374083" />|
+| Executive View | `06_executive.png` | <img width="1386" height="777" alt="06_executive" src="https://github.com/user-attachments/assets/185b3196-95c9-424f-8d61-b73d5deb7db9" />|
+| Product Level View | `07_product_level.png` | <img width="1386" height="777" alt="07_product_level" src="https://github.com/user-attachments/assets/00b83974-d710-4a86-89ea-03096445cf33" />|
 
-> 💡 **Tip:** Record a 30-second GIF showing the bookmark toggles and period selector in action — this shows off Power BI interactivity far better than static images.
+https://github.com/user-attachments/assets/389995a8-cc0e-48f3-8697-9196883a09e5
 
 ---
 
